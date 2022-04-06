@@ -81,9 +81,9 @@ IF YOU ARE BASED IN THE EUROPEAN UNION, NOTHING IN THIS AGREEMENT SHALL LIMIT OR
 
 14. Notice for Utah Users. Under Utah Code 13-61-101, users of the Services from Utah are entitled to the following specific consumer rights notice: The Office of the Utah Attorney General may be contacted in writing at 350 North State Suite 230, SLC, UT 84114-2320, or by telephone at (801) 366-0260. You may contact us at mdkdevelopment7@gmail.com or at:
 
-Markris Digital Solutions.
-309 E 100 S
-Richfield, Utah 84701
+Markris Digital Solutions.<br>
+309 E 100 S<br>
+Richfield, Utah 84701<br>
 
 15. Export Laws. You agree to comply fully with all applicable export laws and regulations to ensure that neither the Services nor any technical data related thereto are exported or re-exported directly or indirectly in violation of, or used for any purposes prohibited by, such laws and regulations. You will comply with all applicable U.S. and non-U.S. export control and trade sanctions laws (“Export Laws”). You will not, directly or indirectly, export, re-export, provide, or otherwise transfer the Services: (a) to any individual, entity, or country prohibited by Export Laws; (b) to anyone on U.S. or non-U.S. government restricted parties lists; or (c) for any purpose prohibited by Export Laws, including nuclear, chemical, or biological weapons, or missile technology applications without the required government authorizations. You will not use or download the App or Services if you are located in a restricted country, if you are currently listed on any U.S. or non-U.S. restricted parties list, or for any purpose prohibited by Export Laws, and you will not disguise your location through IP proxying or other methods.
 
@@ -117,9 +117,9 @@ Richfield, Utah 84701
 
 19.5. Opt-Out Procedure. You may opt out of this agreement to arbitrate. If you do so, neither party can require the other to participate in an arbitration proceeding. To opt out, you must notify us in writing postmarked within 30 days of the later of: (i) the date that you first accepted this Agreement; and (ii) the date you became subject to this arbitration provision. You must use this address to opt-out:
 
-Markris Digital Solutions.
-309 E 100 S
-Richfield, Utah 84701
+Markris Digital Solutions.<br>
+309 E 100 S<br>
+Richfield, Utah 84701<br>
 
 You must include: (1) your name and residence address; (2) the mobile phone number associated with your account; and (3) a clear statement that you want to opt out of this Agreement’s agreement to arbitrate.
 
