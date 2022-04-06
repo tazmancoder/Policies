@@ -81,8 +81,8 @@ IF YOU ARE BASED IN THE EUROPEAN UNION, NOTHING IN THIS AGREEMENT SHALL LIMIT OR
 
 14. Notice for Utah Users. Under Utah Code 13-61-101, users of the Services from Utah are entitled to the following specific consumer rights notice: The Office of the Utah Attorney General may be contacted in writing at 350 North State Suite 230, SLC, UT 84114-2320, or by telephone at (801) 366-0260. You may contact us at mdkdevelopment7@gmail.com or at:
 
-Markris Digital Solutions.
-309 E 100 S
+Markris Digital Solutions.\n
+309 E 100 S\n
 Richfield, Utah 84701
 
 15. Export Laws. You agree to comply fully with all applicable export laws and regulations to ensure that neither the Services nor any technical data related thereto are exported or re-exported directly or indirectly in violation of, or used for any purposes prohibited by, such laws and regulations. You will comply with all applicable U.S. and non-U.S. export control and trade sanctions laws (“Export Laws”). You will not, directly or indirectly, export, re-export, provide, or otherwise transfer the Services: (a) to any individual, entity, or country prohibited by Export Laws; (b) to anyone on U.S. or non-U.S. government restricted parties lists; or (c) for any purpose prohibited by Export Laws, including nuclear, chemical, or biological weapons, or missile technology applications without the required government authorizations. You will not use or download the App or Services if you are located in a restricted country, if you are currently listed on any U.S. or non-U.S. restricted parties list, or for any purpose prohibited by Export Laws, and you will not disguise your location through IP proxying or other methods.
