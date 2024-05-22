@@ -3,7 +3,7 @@ Last updated: April 6, 2022
 
 PLEASE READ THE FOLLOWING CAREFULLY BEFORE DOWNLOADING AND/OR USING THIS WEBSITE, APP OR SERVICE.
 
-Markris Digital Solutions. and its subsidiaries, representatives, affiliates, agents, officers or directors (collectively, “Markris Digital Solutions” “we”, “us” or “our”) make available websites and applications for mobile, tablet, and other smart devices (the “App”) that allow you to curate and manage a directory of your contacts and corresponding significant dates and events such as birthdays, and helps to facilitate your celebration of those events with others by offering reminders, gift suggestions, and original templates to send greetings and messages (collectively, the “Services”).
+Mark Perryman. and its subsidiaries, representatives, affiliates, agents, officers or directors (collectively, “Mark Perryman” “we”, “us” or “our”) make available websites and applications for mobile, tablet, and other smart devices (the “App”) that allow you to curate and manage a directory of your contacts and corresponding significant dates and events such as birthdays, and helps to facilitate your celebration of those events with others by offering reminders, gift suggestions, and original templates to send greetings and messages (collectively, the “Services”).
 
 This Terms of Service (“Agreement”) is a legally binding electronic contract that governs your use of the Services. By clicking the “accept” or “ok” button, or downloading, installing or using the Services, you agree to be bound by the terms of this Agreement which includes our Privacy Policy, the additional terms explicitly incorporated herein by reference, and any additional terms disclosed and agreed to by you if you purchase or accept additional features or products that we offer as part of the Services, each of which are incorporated by reference into this Agreement. If you are using the Services for an organization, you represent that you have the authority to bind that organization and you are agreeing to this Agreement on behalf of that organization. If you do not accept and agree to be bound by the terms of this Agreement, you may not use the Services.
 
@@ -39,7 +39,7 @@ THIS AGREEMENT CONTAINS A BINDING ARBITRATION PROVISION WHICH STATES THAT, UNLES
 
 3.2. Your Contacts, Address Book and Calendar. You may provide us certain event and contact information as part of your use of the Services. You may choose to allow us to access the contacts in your mobile phone address book and add your contacts’ information to your event lists in the App or as part of the Services. You may also choose to allow us to access your calendar application on your mobile phones, and add information about dates and events from your calendar to your events list or contacts profile in the App as part of the Services. You represent and warrant that you are authorized to provide us such information to allow us to provide the Services and you will not use your contacts’ information or information stored in your calendar application in any way except in the ways for which you have been authorized to use the information. 
 
-3.3. Feedback. You are not required to provide us any feedback or suggestions regarding our App or Services (“Feedback”). However, if you do, we thank you, and we will own that Feedback and can use it or not use it in our sole discretion without payment, accreditation or other compensation to you. You hereby irrevocably assign, and will assign, to Markris Digital Solutions. any and all rights, title and interest you may have in and to such Feedback and agree that we shall have the right to use such Feedback and related information in any manner we deem appropriate. You agree that you will not submit to us any information or ideas that you consider to be confidential or proprietary to you or a third party.
+3.3. Feedback. You are not required to provide us any feedback or suggestions regarding our App or Services (“Feedback”). However, if you do, we thank you, and we will own that Feedback and can use it or not use it in our sole discretion without payment, accreditation or other compensation to you. You hereby irrevocably assign, and will assign, to Mark Perryman. any and all rights, title and interest you may have in and to such Feedback and agree that we shall have the right to use such Feedback and related information in any manner we deem appropriate. You agree that you will not submit to us any information or ideas that you consider to be confidential or proprietary to you or a third party.
 
 4. Our Content.
 
@@ -81,7 +81,7 @@ IF YOU ARE BASED IN THE EUROPEAN UNION, NOTHING IN THIS AGREEMENT SHALL LIMIT OR
 
 14. Notice for Utah Users. Under Utah Code 13-61-101, users of the Services from Utah are entitled to the following specific consumer rights notice: The Office of the Utah Attorney General may be contacted in writing at 350 North State Suite 230, SLC, UT 84114-2320, or by telephone at (801) 366-0260. You may contact us at mdkdevelopment7@gmail.com or at:
 
-Markris Digital Solutions.<br>
+Mark Perryman.<br>
 309 E 100 S<br>
 Richfield, Utah 84701<br>
 
@@ -117,7 +117,7 @@ Richfield, Utah 84701<br>
 
 19.5. Opt-Out Procedure. You may opt out of this agreement to arbitrate. If you do so, neither party can require the other to participate in an arbitration proceeding. To opt out, you must notify us in writing postmarked within 30 days of the later of: (i) the date that you first accepted this Agreement; and (ii) the date you became subject to this arbitration provision. You must use this address to opt-out:
 
-Markris Digital Solutions.<br>
+Mark Perryman.<br>
 309 E 100 S<br>
 Richfield, Utah 84701<br>
 
