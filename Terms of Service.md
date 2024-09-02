@@ -1,4 +1,5 @@
 # Terms of Service
+Last Updated: September 02, 2024
 
 1. Acceptance By using this app, you agree to these terms. If you don’t agree, don’t use the app.
 
