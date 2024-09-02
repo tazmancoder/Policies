@@ -1,5 +1,5 @@
 # Privacy Policy
-Last updated: May 22, 2024
+Last updated: September 02, 2024
 
 Mark Perryman (“we”, “us”, or “our”) operates several apps on the Apple App Store. This Privacy Policy explains how we handle your personal information when you use our apps.
 
