@@ -4,25 +4,25 @@
 
 2. Using the App
 
-> You must be at least 13 years old to use this app.
-> You are responsible for any activity that happens under your account.
+  + You must be at least 13 years old to use this app.
+  + You are responsible for any activity that happens under your account.
 
 3. Privacy We collect and use your data according to our Privacy Policy. Check that policy to see how we handle your information.
 
 4. Your Content
 
-> You own the content you create and share in the app.
-> You give us permission to use your content to provide and improve the app.
+  + You own the content you create and share in the app.
+  + You give us permission to use your content to provide and improve the app.
 
 5. Intellectual Property
 
-> The app and its content are owned by us or our licensors.
-> You can’t copy, modify, or distribute our content without permission.
+  + The app and its content are owned by us or our licensors.
+  + You can’t copy, modify, or distribute our content without permission.
 
 6. Payments
 
-> If the app includes in-app purchases, you agree to pay for them.
-> All transactions are handled through the App Store.
+  + If the app includes in-app purchases, you agree to pay for them.
+  + All transactions are handled through the App Store.
 
 7. Termination We can suspend or terminate your access to the app if you violate these terms.
 
